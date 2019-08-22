@@ -10,7 +10,6 @@ spring:
    application: 
     name: yaoxi-micro-provider-client-config-8001
    datasource:
-    datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver             
     url: jdbc:mysql://47.100.177.88:3308/emm504db?serverTimezone=GMT%2B8              
     username: root
@@ -36,7 +35,6 @@ spring:
    application: 
     name: yaoxi-micro-provider-client-config-8001
    datasource:
-    datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver             
     url: jdbc:mysql://47.100.177.88:3308/emm504db?serverTimezone=GMT%2B8              
     username: root
