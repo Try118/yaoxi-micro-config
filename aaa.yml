@@ -7,8 +7,6 @@ server:
   port: 8001
 spring: 
    profiles: dev
-   application: 
-    name: yaoxi-micro-provider-client-config-8001
    datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver             
     url: jdbc:mysql://47.100.177.88:3308/emm504db?serverTimezone=GMT%2B8              
@@ -32,8 +30,6 @@ server:
   port: 8001
 spring: 
    profiles: test
-   application: 
-    name: yaoxi-micro-provider-client-config-8001
    datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver             
     url: jdbc:mysql://47.100.177.88:3308/emm504db?serverTimezone=GMT%2B8              
